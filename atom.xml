@@ -6,11 +6,11 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2025-11-03T05:59:37.379Z</updated>
+  <updated>2025-11-03T06:17:39.408Z</updated>
   <id>http://example.com/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>Q1-Jun</name>
     
   </author>
   
@@ -21,9 +21,9 @@
     <link href="http://example.com/2025/11/03/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
     <id>http://example.com/2025/11/03/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</id>
     <published>2025-11-03T03:05:43.000Z</published>
-    <updated>2025-11-03T05:59:37.379Z</updated>
+    <updated>2025-11-03T06:17:39.408Z</updated>
     
-    <content type="html"><![CDATA[<p>点我的头像前往我的GitHub主页<br />(虽然我的仓库里什么都没有<br /><a href="https://github.com/Q1-Jun"><img src="https://github.com/Q1-Jun/Q1-Jun.github.io/blob/main/photo/1.jpg?raw=true%22%E8%BF%99%E6%98%AF%E6%88%91%22" alt="111" /></a></p>]]></content>
+    <content type="html"><![CDATA[<p>点我的头像前往我的GitHub主页<br />(虽然我的仓库里什么都没有<br /><a href="https://github.com/Q1-Jun"><img src="https://github.com/Q1-Jun/Q1-Jun.github.io/blob/main/photo/1.jpg?raw=true" alt="111" title="这是我!" /></a></p>]]></content>
     
     
       
@@ -35,8 +35,6 @@
     
     
     
-    
-    <category term="你好" scheme="http://example.com/tags/%E4%BD%A0%E5%A5%BD/"/>
     
   </entry>
   
