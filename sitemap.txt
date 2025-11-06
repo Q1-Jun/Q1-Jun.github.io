@@ -1,3 +1,3 @@
-http://example.com/2025/11/03/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/
-http://example.com/2025/11/03/hello-world/
-http://example.com/
+https://q1-jun.github.io/2025/11/06/flask/
+https://q1-jun.github.io/2025/11/03/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/
+https://q1-jun.github.io/
